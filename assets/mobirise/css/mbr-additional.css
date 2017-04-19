@@ -1,6 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 
 
 
@@ -12,11 +10,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 .btn,
 .alert,
@@ -40,7 +38,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -54,7 +52,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -63,22 +61,22 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -843,4 +841,78 @@ h6,
 #pricing-table2-17 UL {
   color: #2b0680;
   font-size: 17px;
+}
+
+
+
+#ext_menu-16 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-16 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-16 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-16 .close-icon::before,
+#ext_menu-16 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-16 .link,
+#ext_menu-16 .dropdown-item {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-16 .link {
+  font-size: 1.1rem;
+}
+#ext_menu-16 .dropdown-item,
+#ext_menu-16 .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#ext_menu-16 .link:hover,
+#ext_menu-16 .dropdown-item:hover,
+#ext_menu-16 .link:focus,
+#ext_menu-16 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-16 .link[aria-expanded="true"],
+#ext_menu-16 .dropdown-menu {
+  background: #b3b3b3;
+}
+#ext_menu-16 .nav-dropdown-sm .link:focus,
+#ext_menu-16 .nav-dropdown-sm .link:hover,
+#ext_menu-16 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-16 .nav-dropdown-sm .dropdown-item:hover {
+  background: #c4c4c4!important;
+}
+#ext_menu-16 .navbar,
+#ext_menu-16 .nav-dropdown-sm,
+#ext_menu-16 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-16 .nav-dropdown-sm .dropdown-menu {
+  background: #cccccc;
+}
+#ext_menu-16 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-16 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-16 .bg-color.transparent.opened .link:hover,
+#ext_menu-16 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-16 .link[aria-expanded="true"],
+#ext_menu-16 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header2-1e .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+  color: #efefef;
+}
+#header2-1e .mbr-section-text {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
 }
