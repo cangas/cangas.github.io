@@ -345,7 +345,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mezcla-2000x1119.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mezcla02-2000x1122.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -393,13 +393,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -421,7 +421,7 @@
           "_name": "menu",
           "_anchor": "menu-1r",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.45",
             "fontName": {
               "name": "Oswald",
@@ -453,8 +453,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         }
       ]
     },
@@ -1518,13 +1518,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1x",
-          "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "0",
-            "bgColor": "#c1c1c1"
-          },
-          "text": "<p>EL curso sera impartido por Roberto Sanchez, 6ºDan Shidoin,reconocido por el Hombu Dojo de Tokyo y por Angel Martinez, 5ºDAN Shidoin, reconocido por el Hombu Dojo de Tokyo.</p><p>En la actualidad Roberto Sanchez es director tecnico de Aikikai y Angel Martinez es secretario de Aikikai</p><p><br></p><ul><li>El precio del curso completo sera de 65€ para mienbros asociados .</li><li>Dos dias de curso tiene un precio de 45€</li><li>Un dia de curso tiene un precio de 30€</li><li>Para otros miembros con seguro en vigor &nbsp;el curso tendra un coste de 80€</li></ul>",
           "_styles": {
             "P": {
               "font-size": "21px",
@@ -1534,7 +1527,14 @@
               "color": "#28324e",
               "font-size": "18px"
             }
-          }
+          },
+          "_anchor": "content1-1x",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "0",
+            "bgColor": "#c1c1c1"
+          },
+          "text": "<p>EL curso sera impartido por Roberto Sanchez, 6ºDan Shidoin,reconocido por el Hombu Dojo de Tokyo y por Angel Martinez, 5ºDAN Shidoin, reconocido por el Hombu Dojo de Tokyo.</p><p>En la actualidad Roberto Sanchez es director tecnico de Aikikai y Angel Martinez es secretario de Aikikai</p><p><br></p><ul><li>El precio del curso completo sera de 65€ para mienbros asociados .</li><li>Dos dias de curso tiene un precio de 45€</li><li>Un dia de curso tiene un precio de 30€</li><li>Para otros miembros con seguro en vigor &nbsp;el curso tendra un coste de 80€</li></ul>"
         },
         {
           "_name": "footer1",
@@ -1975,6 +1975,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "header2-1o",
           "_params": {
             "imageSize": "61",
@@ -2020,15 +2028,7 @@
           },
           "title": "Parrillada",
           "text": "Como &nbsp;todos el año tendremos la famosa parrillada con los maestros.<br>Esperamos poder disfrutar de una tarde al aire libre<br> en un entorno privilegiado y&nbsp;<br>lo mas fundamental&nbsp;<br>disfrutando de una buena compañia.<br>Despues de la comida, realizaremos juegos tradicionales&nbsp;<br>para que todos participemos.<br>El precio de la parrillada sera de 15€/persona y los niños 7€",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -2392,6 +2392,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "header2-1p",
           "_params": {
             "imageSize": "54",
@@ -2437,15 +2445,7 @@
           },
           "title": "Ruta Cultural - Gastronomica",
           "text": "En esta ruta queremos conocer la Villa de Cangas atraves de sus <br>casas, palacios, calles y bares.<br>En esta ruta , acompañados de una guia&nbsp;<br>iremos conociendo la historia de esta villa y&nbsp;<br>de paso haciendo unas paradas para degustar<br>una sidra, un vino de la zona y por ultimo un vermut casero.<br>Todo ello acompañado de una tapa especial.<br>Esta actividad es gratuita.&nbsp;<br>Las tres consumiciones tienen un coste de 9,50€.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -2570,6 +2570,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "header2-1s",
           "_params": {
             "imageSize": 50,
@@ -2615,15 +2623,7 @@
           },
           "title": "Escape Room",
           "text": "¿Has probado alguna vez un escape como juego de ocio?<br>Esto es un juego de ingenio en el cual podras probar con&nbsp;<br>un equipo &nbsp;vuestras capacidades en resolver&nbsp;<br>enigmas y donde vuestro ingenio demostrara&nbsp;<br>si sois capaces de salir a tiempo.<br>Esta actividad es gratuita.<br>Para las familias que vayan con niños &nbsp;habra un monitor que <br>durante la participacion en el &nbsp;escape room <br>realizara un taller con los pequeños.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -2756,6 +2756,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1w",
           "_params": {
             "labelsColor": "#232323",
@@ -2801,12 +2806,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
         },
         {
           "_name": "footer1",
