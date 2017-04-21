@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Actividad V. Karts.html",
+    "currentPage": "Actividad Jueves.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -1810,7 +1810,7 @@
             "imageSize": "61",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/leitariegos-2000x1120.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/leitariegos-1-2000x1120.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2583,7 +2583,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/corias-2000x1331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/corias-desenfocada-2000x1330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
