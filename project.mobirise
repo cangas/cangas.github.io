@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Actividad Jueves.html",
+    "currentPage": "Actividad V. Ruta Gastronomica.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -1988,7 +1988,7 @@
             "imageSize": "61",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prada-2000x1502.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/prada-desenfocada-2000x1501.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2405,7 +2405,7 @@
             "imageSize": "54",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cangas-puente-2-2000x2670.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cangas-puente-2-2000x2666.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2425,7 +2425,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/cangas-puente-2-1400x1869.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cangas-puente-2-1400x1866.jpg",
               "link": "",
               "alt": "",
               "title": "",
