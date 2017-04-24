@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Inscripciones.html",
+    "currentPage": "Horarios.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -1450,13 +1450,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1534,7 +1534,7 @@
             "paddingBottom": "0",
             "bgColor": "#c1c1c1"
           },
-          "text": "<p>EL curso sera impartido por Roberto Sanchez, 6ºDan Shidoin,reconocido por el Hombu Dojo de Tokyo y por Angel Martinez, 5ºDAN Shidoin, reconocido por el Hombu Dojo de Tokyo.</p><p>En la actualidad Roberto Sanchez es director tecnico de Aikikai y Angel Martinez es secretario de Aikikai</p><p><br></p><ul><li>El precio del curso completo sera de 65€ para mienbros asociados .</li><li>Dos dias de curso tiene un precio de 45€</li><li>Un dia de curso tiene un precio de 30€</li><li>Para otros miembros con seguro en vigor &nbsp;el curso tendra un coste de 80€</li></ul>"
+          "text": "<p>EL curso sera impartido por:</p><p> Roberto Sanchez, 6ºDan Shidoin,reconocido por el Hombu Dojo de Tokyo y Director Tecnico de Aikikai España.</p><p>Angel Martinez, 5ºDan Shidoin, reconocido por el Hombu Dojo de Tokyo y Miembro del Comite de Enseñanza Aikikai España.</p><p><br></p><ul><li>El precio del curso completo sera de 65€ para mienbros asociados .</li><li>Dos dias de curso tiene un precio de 45€</li><li>Un dia de curso tiene un precio de 30€</li><li>Para otros miembros con seguro en vigor &nbsp;el curso tendra un coste de 80€</li></ul>"
         },
         {
           "_name": "footer1",
@@ -2840,7 +2840,7 @@
           "title": "<br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">Inscripcion</span><br>",
           "subtitle": "Esta inscripcion no compromete a la asistencia al curso&nbsp;",
           "form": {
-            "action": "orodriguezcoque@gmail.com",
+            "action": "cursoaikidocangas@gmail.com",
             "alerts": {
               "success": "Muchas gracias por tu comentario.\nNos pondremos en contacto contigo."
             },
@@ -2862,7 +2862,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Te gustaria contarnos......"
+                "customTitle": "Escuchamos tu sugerencia"
               }
             }
           },
