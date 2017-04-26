@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Inscripciones.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -107,7 +107,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -138,7 +138,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-png-negro-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -149,7 +149,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -457,7 +457,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         }
       ]
     },
@@ -517,13 +517,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -536,7 +536,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -567,7 +567,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-png-negro-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -578,7 +578,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -752,13 +752,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -771,7 +771,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -802,7 +802,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-png-negro-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -813,7 +813,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -975,13 +975,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -994,7 +994,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -1036,7 +1036,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -1231,13 +1231,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1250,7 +1250,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -1292,7 +1292,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -1472,7 +1472,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -1514,7 +1514,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -1727,13 +1727,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1746,7 +1746,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -1788,7 +1788,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -1929,7 +1929,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -1971,7 +1971,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -2079,22 +2079,22 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1.45rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.570rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2107,7 +2107,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -2138,7 +2138,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-png-negro-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2149,7 +2149,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -2346,7 +2346,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -2388,7 +2388,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -2524,7 +2524,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -2566,7 +2566,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -2702,7 +2702,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -2744,7 +2744,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         },
         {
           "_tags": [
@@ -2936,7 +2936,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -2978,7 +2978,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOTELES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Horarios.html\" aria-expanded=\"false\">HORARIOS DE CLASE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Actividades.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ACTIVIDADES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Jueves.html\">Jueves 3</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Viernes 4</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Ruta Gastronomica.html\">Ruta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Karts.html\">Karts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad V. Escape Room.html\">Escape Room</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Actividad Sabado.html\">Sabado 5</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Inscripciones.html\">INSCRIPCIONES</a></li>"
         }
       ]
     }
