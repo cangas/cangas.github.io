@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "",
+    "cookiesAlert": "Este sitio utiliza cookies para mejorar los servicios que se ofrecen. Si continúa navegando, consideramos que acepta su uso. ",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "UA-98114669-1"
