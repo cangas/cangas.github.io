@@ -28,7 +28,8 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "UA-98114669-1"
   },
   "pages": {
     "Hoteles.html": {
@@ -414,7 +415,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -1990,7 +1991,7 @@
             "imageSize": "61",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prada%20desenfocada-2000x1501.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/prada-desenfocada-2000x1501.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2407,7 +2408,7 @@
             "imageSize": "54",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cangas%20puente%202-2000x2666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cangas-puente-2-2000x2666.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2585,7 +2586,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/corias%20desenfocada-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/corias-desenfocada-2000x1330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2763,7 +2764,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/karts%20nuevos-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/karts-nuevos-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
