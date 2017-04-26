@@ -6,10 +6,10 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#cccccc",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#cccccc",
+        "infoColor": "#c1c1c1",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Oswald",
@@ -26,7 +26,9 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Hoteles.html": {
@@ -1988,7 +1990,7 @@
             "imageSize": "61",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prada-desenfocada-2000x1501.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/prada%20desenfocada-2000x1501.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2405,7 +2407,7 @@
             "imageSize": "54",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cangas-puente-2-2000x2666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cangas%20puente%202-2000x2666.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2583,7 +2585,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/corias-desenfocada-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/corias%20desenfocada-2000x1330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2761,7 +2763,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/karts-nuevos-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/karts%20nuevos-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
