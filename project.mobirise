@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Inscripciones.html",
+    "currentPage": "index.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -26,10 +26,10 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "Este sitio utiliza cookies para mejorar los servicios que se ofrecen. Si continúa navegando, consideramos que acepta su uso. ",
+    "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "google-analytics": "UA-98114669-1"
+    "google-analytics": ""
   },
   "pages": {
     "Hoteles.html": {
