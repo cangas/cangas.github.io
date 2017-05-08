@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Actividad V. Ruta Gastronomica.html",
+    "currentPage": "Actividad V. Karts.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -2585,7 +2585,7 @@
           },
           "_anchor": "header2-1s",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "53",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/corias-desenfocada-2000x1330.jpg",
@@ -2596,7 +2596,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -2758,7 +2758,8 @@
               "font-size": "60px"
             },
             ".mbr-section-text": {
-              "font-size": "22px"
+              "font-size": "22px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header2-1y",
@@ -2774,7 +2775,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -2787,7 +2788,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/karts-nuevos-1400x933.jpg",
-              "link": "",
+              "link": "Actividades.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
