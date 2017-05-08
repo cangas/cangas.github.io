@@ -1393,6 +1393,10 @@ h6,
 #form1-1w .form-control-label {
   color: #232323;
 }
+#social-buttons4-24 .mbr-section-title,
+#social-buttons4-24 .btn-social {
+  color: #fff;
+}
 #menu-1u .hide-buttons .nav-btn {
   display: none !important;
 }
