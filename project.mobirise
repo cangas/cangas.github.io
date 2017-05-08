@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Actividad V. Karts.html",
+    "currentPage": "Actividades.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -46,15 +46,15 @@
           "_name": "footer1",
           "_anchor": "footer1-e",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -117,7 +117,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -425,7 +425,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -475,15 +475,15 @@
           "_name": "footer1",
           "_anchor": "footer1-i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -546,7 +546,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -710,15 +710,15 @@
           "_name": "footer1",
           "_anchor": "footer1-o",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -781,7 +781,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1004,7 +1004,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1101,15 +1101,15 @@
           "_name": "footer1",
           "_anchor": "footer1-t",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -1189,15 +1189,15 @@
           "_name": "footer1",
           "_anchor": "footer1-y",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -1260,7 +1260,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1482,7 +1482,7 @@
           "_anchor": "menu-1u",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1543,15 +1543,15 @@
           "_name": "footer1",
           "_anchor": "footer1-13",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -1685,15 +1685,15 @@
           "_name": "footer1",
           "_anchor": "footer1-19",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -1756,7 +1756,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1939,7 +1939,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2046,15 +2046,15 @@
           "_name": "footer1",
           "_anchor": "footer1-1h",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -2079,10 +2079,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2117,7 +2117,7 @@
           "_anchor": "menu-1f",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2191,13 +2191,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<br><br><br><br>Puerto Leitariegos",
+          "title1": "<br>Puerto Leitariegos",
           "subtitle1": "",
-          "caption1": "<br><br><br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Actividad Jueves.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
+          "caption1": "<br><br><br><br><br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"Actividad Jueves.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cangas-puente-2-600x801.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cangas-puente-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2208,9 +2208,9 @@
             }
           },
           "title2": "Ruta Cultural - Gastronomica",
-          "subtitle2": "<br><br><br><br>",
+          "subtitle2": "<br><br><br><br><br><br><br>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"Actividad V. Ruta Gastronomica.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Actividad V. Ruta Gastronomica.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/karts-nuevos-600x399.jpg",
@@ -2223,10 +2223,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "<br><br><br><br>Karts",
-          "subtitle3": "<br><br><br><br>",
+          "title3": "<br>Karts",
+          "subtitle3": "<br><br><br><br><br><br>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Actividad V. Karts.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/corias-600x399.jpg",
@@ -2239,10 +2239,10 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "<br><br><br><br>Escape Room<br>",
-          "subtitle4": "<br><br><br><br>",
+          "title4": "<br>Escape Room<br>",
+          "subtitle4": "<br><br><br><br><br><br>",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Actividad V. Escape Room.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/prada-600x450.jpg",
@@ -2255,10 +2255,10 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Parrillada</span><br>",
-          "subtitle5": "<br><br><br><br>",
+          "title5": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Parrillada</span><br>",
+          "subtitle5": "<br><br><br><br><br>",
           "caption5": "",
-          "button5": "<a data-app-btn=\"true\" href=\"Actividad Sabado.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Actividad Sabado.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -2285,15 +2285,15 @@
           "_name": "footer1",
           "_anchor": "footer1-1a",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -2356,7 +2356,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2465,15 +2465,15 @@
           "_name": "footer1",
           "_anchor": "footer1-1m",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -2536,7 +2536,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2643,15 +2643,15 @@
           "_name": "footer1",
           "_anchor": "footer1-1n",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -2714,7 +2714,7 @@
           "_anchor": "menu-1r",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2905,15 +2905,15 @@
           "_name": "footer1",
           "_anchor": "footer1-1t",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -2976,7 +2976,7 @@
           "_anchor": "menu-1u",
           "_params": {
             "bgColor": "#c1c1c1",
-            "fontSize": "1.45",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
