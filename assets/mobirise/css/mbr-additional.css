@@ -1247,9 +1247,11 @@ h6,
 }
 #header2-1p .mbr-section-title {
   font-size: 60px;
+  color: #faaf40;
 }
 #header2-1p .mbr-section-text {
   font-size: 22px;
+  color: #ffffff;
 }
 
 #menu-1r .hide-buttons .nav-btn {

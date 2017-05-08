@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Inscripciones.html",
+    "currentPage": "Actividad V. Ruta Gastronomica.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -2397,10 +2397,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#faaf40"
             },
             ".mbr-section-text": {
-              "font-size": "22px"
+              "font-size": "22px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header2-1p",
@@ -2408,7 +2410,7 @@
             "imageSize": "54",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cangas-puente-2-2000x2666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cangas-puente-2000x1500.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2429,7 +2431,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/cangas-puente-2-1400x1866.jpg",
-              "link": "",
+              "link": "Actividades.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
