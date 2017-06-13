@@ -433,11 +433,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-1r .link {
-  font-size: 1.45rem;
+  font-size: 0.75rem;
 }
 #menu-1r .dropdown-item,
 #menu-1r .nav-dropdown-sm .link {
-  font-size: 1.570rem;
+  font-size: 0.812rem;
 }
 #menu-1r .link:hover,
 #menu-1r .dropdown-item:hover,
@@ -474,7 +474,7 @@ h6,
 }
 #menu-1r .link[aria-expanded="true"],
 #menu-1r .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #c1c1c1!important;
 }
 #features3-f P {
   color: #000000;
