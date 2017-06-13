@@ -878,11 +878,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-1u .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-1u .dropdown-item,
 #menu-1u .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-1u .link:hover,
 #menu-1u .dropdown-item:hover,
@@ -919,7 +919,7 @@ h6,
 }
 #menu-1u .link[aria-expanded="true"],
 #menu-1u .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #c1c1c1!important;
 }
 #content1-1x P {
   font-size: 21px;
@@ -998,11 +998,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-1r .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-1r .dropdown-item,
 #menu-1r .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-1r .link:hover,
 #menu-1r .dropdown-item:hover,
@@ -1039,7 +1039,7 @@ h6,
 }
 #menu-1r .link[aria-expanded="true"],
 #menu-1r .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #c1c1c1!important;
 }
 #header2-1e .mbr-section-title {
   font-family: 'Oswald', sans-serif;
@@ -1139,11 +1139,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-1f .link {
-  font-size: 1.15rem;
+  font-size: 0.75rem;
 }
 #menu-1f .dropdown-item,
 #menu-1f .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 0.812rem;
 }
 #menu-1f .link:hover,
 #menu-1f .dropdown-item:hover,
@@ -1180,7 +1180,7 @@ h6,
 }
 #menu-1f .link[aria-expanded="true"],
 #menu-1f .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #c1c1c1!important;
 }
 
 #menu-1r .hide-buttons .nav-btn {
