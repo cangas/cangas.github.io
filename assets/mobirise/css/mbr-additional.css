@@ -1435,3 +1435,17 @@ body {
 .cid-qMGg7tNxNM H1 {
   color: #ffffff;
 }
+.cid-qMGmrjajkk {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-qMGmrjajkk .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qMGmrjajkk .video-block {
+    width: 100% !important;
+  }
+}
