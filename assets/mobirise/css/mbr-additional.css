@@ -3181,8 +3181,8 @@ body {
   text-align: center;
 }
 .cid-qQVyUAFwiV {
-  padding-top: 60px;
-  padding-bottom: 120px;
+  padding-top: 15px;
+  padding-bottom: 135px;
   background-color: #cccccc;
 }
 .cid-qQVyUAFwiV .card-img {
@@ -3666,6 +3666,18 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qSCeIHWIhN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #879a9f, #cccccc);
+}
+.cid-qSCeIHWIhN .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-qSCeIHWIhN .social-list a:focus {
+  text-decoration: none;
 }
 .cid-qQNrAk4m8u .navbar {
   padding: .5rem 0;
