@@ -3623,6 +3623,50 @@ body {
 .cid-qQNrAk4m8u .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qSC97enlc9 {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #cccccc, #879a9f);
+}
+.cid-qSC7R05Zy4 {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #c1c1c1;
+}
+.cid-qSC7R05Zy4 .card-img {
+  background-color: #fff;
+}
+.cid-qSC7R05Zy4 .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qSC7R05Zy4 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qSC7R05Zy4 p {
+  text-align: left;
+}
+.cid-qSC7R05Zy4 .mbr-text {
+  color: #767676;
+}
+.cid-qSC7R05Zy4 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qSC7R05Zy4 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qSC7R05Zy4 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
 .cid-qQNrAk4m8u .navbar {
   padding: .5rem 0;
   background: #333333;
